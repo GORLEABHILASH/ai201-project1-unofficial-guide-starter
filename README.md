@@ -152,20 +152,80 @@ instructed to cite professor/course inline.
 
 ## Evaluation Report
 
-Run with `python generate.py --eval`.
+> Reproduce with: **`python generate.py --eval`**
 
-| # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
-|---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | Better professor for CS1800 — Gregory Aloupis or Lucia Nunez? | Lucia Nunez (3.6/5, 66% would take again) over Aloupis (1.6/5, 18%). | Correctly identifies Lucia Nunez as better, citing her positive reviews and Aloupis's negative ones. (Required a retrieval fix — see Failure Case.) | Relevant (after balanced-retrieval fix) | Accurate |
-| 2 | What grades do students report in Akshar Varma's CS3000? | Polarizing — A most common, but notable Fs and Incompletes; many N/A. | Reports A as most common among retrieved reviews, plus "Not sure yet" and N/A. Does **not** surface the Fs/Incompletes. | Relevant | Partially accurate |
-| 3 | How difficult is Akshar Varma's CS3000? | Very hard — most rate 5/5, avg ≈ 4.4. | "Majority found it very challenging, most rate difficulty 5/5," with some disagreement. | Relevant | Accurate |
-| 4 | Is Mark Fontenot's CS3200 worth taking? | Mixed/polarizing — ~2.8/5, ~49% would take again. | Mixed; quotes both "rude, unhelpful" and "great teacher, super understanding"; concludes it depends. | Relevant | Accurate |
-| 5 | Do students rate Fontenot's CS3200 or CS3500 higher? | Roughly equal (~2.8 vs ~2.7); no real difference. | "Difficult to say which is rated more highly — opinions highly divided for both." | Relevant (balanced per-course retrieval) | Accurate |
+### 📊 Scoreboard
 
-**Summary:** 4 accurate, 1 partially accurate. Q2 is partially accurate because
-top-k=8 retrieval samples only 8 of Akshar Varma's ~117 CS3000 reviews, so the
-reported grade distribution under-represents the failing grades that exist in the
-full corpus (a sampling limitation, not a generation error).
+| Metric | Result |
+|:--|:--|
+| Questions evaluated | **5** |
+| ✅ Accurate | **4** |
+| 🟡 Partially accurate | **1** |
+| ❌ Inaccurate | **0** |
+| Retrieval on-target | **5 / 5** |
+
+### Results at a glance
+
+| # | Question | Retrieval | Accuracy |
+|:-:|:--|:-:|:-:|
+| 1 | Better professor for CS1800 — Aloupis or Nunez? | 🎯 Relevant\* | ✅ Accurate |
+| 2 | What grades do students report in Varma's CS3000? | 🎯 Relevant | 🟡 Partial |
+| 3 | How difficult is Varma's CS3000? | 🎯 Relevant | ✅ Accurate |
+| 4 | Is Fontenot's CS3200 worth taking? | 🎯 Relevant | ✅ Accurate |
+| 5 | Do students rate Fontenot's CS3200 or CS3500 higher? | 🎯 Relevant\* | ✅ Accurate |
+
+<sub>\* required balanced per-entity retrieval — see Failure Case.</sub>
+
+### Detailed breakdown
+
+<details open>
+<summary><b>Q1 · Better professor for CS1800 — Aloupis or Nunez?</b> &nbsp; ✅ Accurate</summary>
+
+- **Expected:** Lucia Nunez (3.6/5, 66% would take again) over Gregory Aloupis (1.6/5, 18%).
+- **System response:** Correctly identifies **Lucia Nunez** as the better choice, citing her positive reviews against Aloupis's negative ones.
+- **Note:** Initially failed (retrieval returned only Nunez) — fixed with balanced per-entity retrieval. See **Failure Case Analysis**.
+
+</details>
+
+<details>
+<summary><b>Q2 · What grades do students report in Varma's CS3000?</b> &nbsp; 🟡 Partially accurate</summary>
+
+- **Expected:** Polarizing — A most common, but notable Fs and Incompletes; many N/A.
+- **System response:** Reports **A** as most common among retrieved reviews, plus "Not sure yet" and N/A.
+- **Why partial:** top-k=8 samples only 8 of Varma's ~117 CS3000 reviews, so the grade distribution **under-represents the Fs / Incompletes** that exist in the full corpus — a *sampling* limitation, not a generation error.
+
+</details>
+
+<details>
+<summary><b>Q3 · How difficult is Varma's CS3000?</b> &nbsp; ✅ Accurate</summary>
+
+- **Expected:** Very hard — most rate 5/5, avg ≈ 4.4.
+- **System response:** "Majority found it very challenging, most rate difficulty 5/5," while noting some disagreement.
+
+</details>
+
+<details>
+<summary><b>Q4 · Is Fontenot's CS3200 worth taking?</b> &nbsp; ✅ Accurate</summary>
+
+- **Expected:** Mixed / polarizing — ~2.8/5, ~49% would take again.
+- **System response:** Presents **both sides** — "rude, unhelpful" vs. "great teacher, super understanding" — and concludes it depends on the student.
+
+</details>
+
+<details>
+<summary><b>Q5 · Do students rate Fontenot's CS3200 or CS3500 higher?</b> &nbsp; ✅ Accurate</summary>
+
+- **Expected:** Roughly equal (~2.8 vs ~2.7); no real difference.
+- **System response:** "Difficult to say which is rated more highly — opinions are highly divided for both." Correctly avoids inventing a winner (the trap in this question).
+
+</details>
+
+### Summary
+
+**4 accurate, 1 partially accurate, 0 inaccurate.** Every question retrieved
+on-target chunks. The single partial result (Q2) and the documented Q1 failure
+both trace to **retrieval**, not generation — the LLM faithfully summarized
+whatever context it was handed in all five cases.
 
 ---
 
