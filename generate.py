@@ -12,12 +12,14 @@ Requires GROQ_API_KEY in .env (see .env.example).
 """
 
 import os
+import re
 import sys
 from pathlib import Path
 
 from groq import Groq
 
 from embed import retrieve, TOP_K
+from ingest import PROFESSOR_URLS
 
 MODEL = "llama-3.3-70b-versatile"
 
@@ -81,6 +83,47 @@ def dedupe_sources(hits: list[dict]) -> list[dict]:
         entry["courses"] = sorted(entry["courses"])
         sources.append(entry)
     return sources
+
+
+def infer_filters(query: str):
+    """Infer a metadata filter from a free-text question so the live interface
+    gets the same targeting the --eval harness configures by hand.
+
+    - Two or more professors named  -> balanced list, one filter per professor
+      (scoped to a course if exactly one is mentioned).
+    - Two or more courses named      -> balanced list, one filter per course.
+    - One professor and/or one course -> a single scoped filter.
+    - Nothing recognized             -> None (plain semantic search).
+    """
+    q = query.lower()
+
+    profs = [
+        full for full in PROFESSOR_URLS
+        if re.search(rf"\b{re.escape(full.split()[-1].lower())}\b", q)
+    ]
+    courses = list(dict.fromkeys(
+        (m.group(1) + m.group(2)).upper()
+        for m in re.finditer(r"\b([a-z]{2,4})\s?(\d{3,4})\b", q)
+    ))
+
+    def prof_course(p, c):
+        return {"$and": [{"professor": p}, {"course": c}]}
+
+    if len(profs) >= 2:                                  # compare professors
+        if len(courses) == 1:
+            return [prof_course(p, courses[0]) for p in profs]
+        return [{"professor": p} for p in profs]
+    if len(courses) >= 2:                                # compare courses
+        if len(profs) == 1:
+            return [prof_course(profs[0], c) for c in courses]
+        return [{"course": c} for c in courses]
+    if profs and courses:
+        return prof_course(profs[0], courses[0])
+    if profs:
+        return {"professor": profs[0]}
+    if courses:
+        return {"course": courses[0]}
+    return None
 
 
 def gather_hits(query: str, k: int, filters) -> list[dict]:
@@ -161,7 +204,7 @@ def interactive() -> None:
             break
         if query.lower() in {"quit", "exit", "q", ""}:
             break
-        result = generate_answer(query)
+        result = generate_answer(query, filters=infer_filters(query))
         print(f"\n{result['answer']}\n")
         print("  Sources:")
         for s in result["sources"]:

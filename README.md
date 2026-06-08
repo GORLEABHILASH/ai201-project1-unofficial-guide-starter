@@ -137,16 +137,63 @@ summarization over creativity).
 > ("I don't have enough reviews to answer that") instead of guessing. Never invent
 > professors, courses, or facts that are not in the CONTEXT.
 
-**Structural grounding choices:** Retrieved chunks are formatted into a numbered
-`CONTEXT` block, each labeled with professor, course, and ratings, before the
-question. Because retrieval only returns chunks from the corpus, the model
-physically cannot cite anything outside it. This was verified with an out-of-scope
-query (see below).
+**Structural grounding choices:** Retrieved chunks are formatted into a `CONTEXT`
+block, each labeled with professor, course, and ratings, before the question.
+Because retrieval only returns chunks from the corpus, the model physically cannot
+cite anything outside it. This was verified with an out-of-scope query (below).
 
-**How source attribution is surfaced:** `generate_answer()` returns a `sources`
-list (professor + course for each retrieved chunk) alongside the answer, and the
-interactive interface prints it after every response. The model is also
-instructed to cite professor/course inline.
+**How source attribution is surfaced:** `generate_answer()` returns a de-duplicated
+`sources` list — one entry per source *document* (a professor's RMP page), with the
+courses cited and the page URL — printed after every answer. The model is also
+instructed to cite professor and course inline (and not to use bracket numbers).
+
+**Out-of-scope query (refusal):**
+
+```
+> What are the best dining halls at Northeastern?
+
+I don't have enough reviews to answer that. The provided reviews only discuss
+professors and courses, with no mention of dining halls.
+```
+
+The system declines instead of answering from general knowledge — grounding holds.
+
+---
+
+## Query Interface
+
+A command-line interface (`python generate.py`). It is usable without
+explanation: type a question, read the answer and its sources.
+
+**Input field:** a free-text question typed at the `>` prompt (e.g. "is CS3000
+hard?"). Type `quit` to exit.
+
+**Output fields:**
+1. **Answer** — a grounded, plain-language response that cites professors and
+   courses inline.
+2. **Sources** — one line per source document (professor's RMP page), listing the
+   course(s) the answer drew from and a clickable URL.
+
+The interface auto-detects the question type: for a **comparison** (two professors
+or two courses named) it applies **balanced per-entity retrieval**; for a
+single-professor or single-course question it scopes retrieval with a metadata
+filter; otherwise it does plain semantic search.
+
+**Sample interaction transcript:**
+
+```
+> Who is the better professor for CS1800 — Gregory Aloupis or Lucia Nunez?
+
+Students in CS1800 overwhelmingly prefer Lucia Nunez, describing her as amazing
+and genuine, someone who cares about her students and wants them to succeed. In
+contrast, students who had Gregory Aloupis for CS1800 had strongly negative
+experiences, stating his material does not prepare students for exams. Overall,
+Lucia Nunez is the better professor for CS1800.
+
+  Sources:
+    - Lucia Nunez (CS1800): https://www.ratemyprofessors.com/professor/2668761
+    - Gregory Aloupis (CS1800): https://www.ratemyprofessors.com/professor/2903924
+```
 
 ---
 
