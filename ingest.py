@@ -17,6 +17,21 @@ DOCUMENTS_DIR = Path(__file__).parent / "documents"
 # Abbreviate the long department name for the chunk prefix; pass others through.
 DEPT_ABBR = {"Computer Science": "CS"}
 
+# The source document for each professor is their Rate My Professors page.
+# Stored as metadata so answers can cite a real link, not just a name.
+PROFESSOR_URLS = {
+    "Akshar Varma": "https://www.ratemyprofessors.com/professor/3034822",
+    "Kaan Onarlioglu": "https://www.ratemyprofessors.com/professor/2338287",
+    "Mark Fontenot": "https://www.ratemyprofessors.com/professor/2868024",
+    "Lucia Nunez": "https://www.ratemyprofessors.com/professor/2668761",
+    "Justin Wang": "https://www.ratemyprofessors.com/professor/2963762",
+    "Karl Lieberherr": "https://www.ratemyprofessors.com/professor/430930",
+    "Gregory Aloupis": "https://www.ratemyprofessors.com/professor/2903924",
+    "Andrew van der Poel": "https://www.ratemyprofessors.com/professor/2574535",
+    "Hongyang Zhang": "https://www.ratemyprofessors.com/professor/2689314",
+    "Joydeep Mitra": "https://www.ratemyprofessors.com/professor/2948118",
+}
+
 # --- Ingestion ------------------------------------------------------------
 
 
@@ -124,6 +139,7 @@ def chunk_text(documents: list[dict]) -> list[tuple[str, dict]]:
                 "difficulty": d if d is not None else -1,
                 "grade": r["grade"],
                 "source_file": doc["source_file"],
+                "url": PROFESSOR_URLS.get(professor, ""),
             }
             # Stable id: <ProfessorFile>_<index> (used by ChromaDB in M4).
             chunk_id = f"{Path(doc['source_file']).stem}_{i:04d}"

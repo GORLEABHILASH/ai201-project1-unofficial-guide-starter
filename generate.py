@@ -28,6 +28,7 @@ reviews provided in the CONTEXT below.
 Rules:
 - Base your answer solely on the reviews in the CONTEXT. Do not use outside knowledge.
 - Cite the professor and course code when you make a claim (e.g. "students in CS3000 said...").
+- Refer to reviews by professor and course in prose. Do NOT cite them by number or bracket like [1] or [5].
 - When reviews disagree, summarize BOTH sides honestly rather than picking one.
 - If the CONTEXT does not contain enough information to answer, say so plainly \
 ("I don't have enough reviews to answer that") instead of guessing.
@@ -47,16 +48,39 @@ def load_env() -> None:
 
 
 def build_context(hits: list[dict]) -> str:
-    """Format retrieved chunks into a numbered context block for the prompt."""
+    """Format retrieved chunks into a context block for the prompt.
+
+    Each review is labeled by professor + course (not a bare index number) so
+    any citation the model makes is meaningful to a reader.
+    """
     lines = []
-    for i, h in enumerate(hits, 1):
+    for h in hits:
         m = h["metadata"]
+        review = h["text"].split(": ", 1)[-1]
         lines.append(
-            f"[{i}] {m['professor']} — {m['course']} "
+            f"- {m['professor']} — {m['course']} "
             f"(Quality {m['quality']}/5, Difficulty {m['difficulty']}/5, "
-            f"Grade {m['grade']}):\n    {h['text'].split(': ', 1)[-1]}"
+            f"Grade {m['grade']}): {review}"
         )
-    return "\n\n".join(lines)
+    return "\n".join(lines)
+
+
+def dedupe_sources(hits: list[dict]) -> list[dict]:
+    """Collapse the retrieved chunks into unique source documents (one per
+    professor = one RMP page), aggregating the courses cited and the URL."""
+    by_prof: dict[str, dict] = {}
+    for h in hits:
+        m = h["metadata"]
+        prof = m["professor"]
+        entry = by_prof.setdefault(
+            prof, {"professor": prof, "courses": set(), "url": m.get("url", "")}
+        )
+        entry["courses"].add(m["course"])
+    sources = []
+    for entry in by_prof.values():
+        entry["courses"] = sorted(entry["courses"])
+        sources.append(entry)
+    return sources
 
 
 def gather_hits(query: str, k: int, filters) -> list[dict]:
@@ -100,11 +124,7 @@ def generate_answer(query: str, k: int = TOP_K, filters=None) -> dict:
     )
     answer = response.choices[0].message.content.strip()
 
-    sources = [
-        {"professor": h["metadata"]["professor"], "course": h["metadata"]["course"]}
-        for h in hits
-    ]
-    return {"answer": answer, "sources": sources}
+    return {"answer": answer, "sources": dedupe_sources(hits)}
 
 
 # --- Interfaces -----------------------------------------------------------
@@ -143,8 +163,11 @@ def interactive() -> None:
             break
         result = generate_answer(query)
         print(f"\n{result['answer']}\n")
-        srcs = ", ".join(f"{s['professor']} ({s['course']})" for s in result["sources"])
-        print(f"  sources: {srcs}\n")
+        print("  Sources:")
+        for s in result["sources"]:
+            courses = ", ".join(s["courses"])
+            print(f"    - {s['professor']} ({courses}): {s['url']}")
+        print()
 
 
 def main() -> None:
