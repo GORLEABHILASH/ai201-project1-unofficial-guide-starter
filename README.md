@@ -219,9 +219,25 @@ filterable metadata.
        fails on comparison questions, so you switched to balanced per-entity
        retrieval for those. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation:** Deciding on the chunking
+strategy up front in the spec helped a lot. My default instinct was to use the
+standard ~500-character chunks with 50-character overlap, but working through the
+spec made me realize that per-review chunking made more sense for this data.
+Because each review is one self-contained opinion, chunking per review gives the
+right amount of meaningful text per chunk — good data for embedding — instead of
+chunks that merge unrelated reviews and produce embeddings that aren't suitable
+for accurate retrieval. Having settled this in the spec, the implementation was
+straightforward.
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** The spec said I
+would use a single top-k retrieval (top-8). After running my evaluation, I noticed
+that top-8 did not give accurate results for comparison questions: if one
+professor has many more reviews than another, the top-k results come back filled
+with only that professor's reviews, so the other professor barely appears even
+though their reviews are in the corpus. To fix this I switched to a balanced
+per-entity retrieval approach, which retrieves an equal number of chunks for each
+professor so both are represented and the system can actually compare them and say
+which one is better.
 
 ---
 
@@ -236,14 +252,28 @@ filterable metadata.
      - You decided to drop Reddit after reviewing its API policy yourself.
      - You ran the evaluation, saw Q1 fail, and directed the balanced-retrieval fix. -->
 
-**Instance 1**
+**Instance 1 — Collecting the Rate My Professors data**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* I told it I had decided to use Rate My Professors as my
+  source and asked how I should collect the review data.
+- *What it produced:* It first suggested a text-based approach — manually copying
+  the review text from each professor's page into files and parsing it from there.
+- *What I changed or overrode:* I wasn't satisfied with manual copying and pushed
+  for a more optimal, automated approach. I asked what else we could do, and it
+  identified that Rate My Professors is backed by a GraphQL API. I directed it to
+  switch to that approach, which became `scrape_rmp.py` and let me pull all 596
+  reviews automatically instead of copying them by hand.
 
-**Instance 2**
+**Instance 2 — Fixing the evaluation failures with balanced retrieval**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* After building the pipeline, I ran the evaluation and saw
+  that some of my comparison questions were failing, so I asked why.
+- *What it produced:* We found the cause: for a question comparing two professors,
+  the top-k retrieval was returning chunks from only one professor — the one with
+  more reviews — because that professor had far more chunks near the query, so the
+  other professor never showed up in the top results even though their reviews
+  were in the corpus.
+- *What I changed or overrode:* I decided to switch to a balanced retrieval
+  approach, retrieving an equal number of chunks per professor so that both get
+  equal weight in the results, rather than letting the more-reviewed professor
+  dominate. After this change the comparison questions answered correctly.
