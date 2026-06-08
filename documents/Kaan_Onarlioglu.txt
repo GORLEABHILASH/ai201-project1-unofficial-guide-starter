@@ -1,0 +1,553 @@
+Kaan Onarlioglu
+Department: Computer Science
+Overall Quality: 4.9 / 5 (based on 107 ratings)
+Average Difficulty: 3.7 / 5
+Would Take Again: 93%
+
+============================================================
+REVIEWS
+============================================================
+
+Course: CY3740    Date: 2026-06-04
+Quality: 5/5    Difficulty: 5/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Caring
+Review: By far my favorite professor I've had at NEU. Funny and engaging even for boring topics. Learnt a lot in this class about various aspects of security and would take him again for every class he taught (if he taught anything other than CY3740)
+
+Course: CY3740    Date: 2026-04-18
+Quality: 3/5    Difficulty: 3/5    Grade: A+    Would Take Again: N/A
+Review: It's definitely (A+)-able class. Definitely do the challenges early, I mean right when he post. Spam him stuff. you need some previous knowledge to take this class or else it'll be difficult. that's all i can say
+
+Course: CY3740    Date: 2026-04-17
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Lots of homework, Accessible outside class
+Review: Professor Kaan is the best Professor I've had at Northeastern. He is beyond knowledgable in his field and wants you to learn so that you are prepared to enter the industry. He is a no "BS" type of teacher and calls out industry standards that are questionable or could be improved. If you want to go into cybersecurity you must take this class.
+
+Course: CY3740    Date: 2026-04-15
+Quality: 4/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Review: it's hard, but i don't have anything bad to say about this class.
+
+Course: CY3740    Date: 2026-04-14
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures
+Review: Great lectures, challenging but rewarding homeworks, lots of (difficult but doable) extra credit opportunities.
+
+Course: CY3740    Date: 2026-04-13
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Review: Kaan has made CY 3740 without a doubt the best class I've taken at Northeastern. His lectures are fun and engaging and I always looked forward to working on the challenges. The class was difficult, but fair. People rating him below 5 stars clearly did not pay attention or seek any help out from the TA's. HW always built on what was in the lecture.
+
+Course: CY3740    Date: 2026-04-11
+Quality: 4/5    Difficulty: 4/5    Grade: A-    Would Take Again: N/A
+Tags: Respected, Lecture heavy, Test heavy
+Review: Only way to explain Kaan is like an ex-girlfriend, no homo. You remember her as a genuinely nice person, and you even love her from time to time, but the relationship was tough. He is kind and approachable, but his class is definitely challenging in multiple ways. The lectures are solid and engaging, even if the material can be difficult at times.
+
+Course: CY3740    Date: 2026-04-11
+Quality: 3/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Lots of homework, Lecture heavy, Test heavy
+Review: The challenges were hard, not surprised about that at all. You just go through it, that's how life is. The slides during class instruction were good, but made me think all throughout the place. I don't know how to really fully comment this class. It's strange, but kind of normal. Yes, it's on Thursday night. Could be a con to readers of this review
+
+Course: CY3740    Date: 2026-04-10
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Review: Extremely knowledgeable and well spoken professor. The challenges required understanding of the material and significant thought but were still doable and allowed for hands on learning. Kaan has clearly spent ample time and energy to get the course to be what it is. Would recommend.
+
+Course: CY3740    Date: 2026-04-10
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Gives good feedback, Accessible outside class
+Review: Great professor. Lectures were engaging and the assignment structure made the course pretty fun. He was very responsive on Piazza whenever I asked questions and provided helpful feedback. I learned a lot and found the content very valuable. Would definitely recommend both this course and Kaan as a professor.
+
+Course: CY3740    Date: 2026-04-10
+Quality: 2/5    Difficulty: 5/5    Grade: A    Would Take Again: N/A
+Review: he has a weird grading system. if you don't know how to do one challenge, your grade drops.
+
+Course: CY3740    Date: 2026-04-10
+Quality: 4/5    Difficulty: 5/5    Grade: A+    Would Take Again: N/A
+Tags: Lecture heavy, Test heavy, Online Savvy
+Review: He's a good person. Tests and quizzes seem to be more lecture heavy and theory. Challenges are hard, you need to memorize basically everything from computer systems. A lot of analysis of C code and writing Python code. No one really supports you with the challenges at all. If you don't know how to do anything, then it's wraps. That's all I can say.
+
+Course: CY3740    Date: 2026-04-10
+Quality: 3/5    Difficulty: 5/5    Grade: A    Would Take Again: N/A
+Tags: Amazing lectures , Lots of homework, Lecture heavy
+Review: Pretty hard class. Midterm and final were alright, they make you think of what was taught. More of class instruction and how to analyze it with what you were taught. You need a foundation of computer systems, C code, and Python. If you don't have that foundation, it's going to be hard. No one helps you with the challenges, TAs and Kaan don't help.
+
+Course: CY3740    Date: 2026-04-07
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Lots of homework
+Review: Kaan is a thoroughly engaging lecturer. On top of this, he has clearly put a lot of time and effort into designing the course (homeworks, tests, lectures), and it shows. I cannot more highly recommend this course.
+
+Course: CY3740    Date: 2026-04-07
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Inspirational, Respected
+Review: I've never had a professor that made me want to attend lectures like Kaan did. The material he curated is so interested and has real modern-day implications in the cybersecurity world. The challenges and gamification of homework made me legitimately look forward to the next challenge coming out so I could  try to break it. 10/10, would recommend.
+
+Course: CY3740    Date: 2026-04-05
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious
+Review: Top 3 class for CS/CY majors. Kaan is amazing and you'll walk out of the course being actually prepared for security jobs and get a solid understanding of the principles. Homework is actually enjoyable to do if you're interested.
+
+Course: CY3740    Date: 2026-04-05
+Quality: 5/5    Difficulty: 4/5    Grade: Incomplete    Would Take Again: Yes
+Tags: EXTRA CREDIT, Hilarious, Respected
+Review: Amazing prof
+
+Course: CY3740    Date: 2026-04-03
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: Cons: There is no fluff in this course, meaning you need to be well equipped to catch up on stuff you haven't really learned in prerequisite courses involving Systems and Databases. Pros: This course teaches you lessons you will apply in both your day to day life and your career. Khan stresses the importance of being thorough and self supporting.
+
+Course: CY3740    Date: 2026-04-03
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: Every professor should take notes from Kaan. All of his lectures are incredibly insightful, and the gamified challenge system makes you WANT to do his homework. Genuinely leagues ahead of any other professor I've had here.
+
+Course: CY3740    Date: 2026-04-03
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Respected
+Review: Just a great guy overall. His lectures are very interesting and has a good sense of humor. Challenges are difficult but doable.
+
+Course: CY3740    Date: 2026-02-19
+Quality: 1/5    Difficulty: 5/5    Grade: B+    Would Take Again: N/A
+Tags: Lecture heavy, Graded by few things
+Review: I took him in Fall 2024. Thursday night, brutal. The challenges were hard, since it was hard to even know any commands or whatnot. No notes or anything on the two quizzes and midterm, final. You basically had to memorize and understand everything and there was a lot. The bonuses were unsolvable, so don't be praising yourself with any extra credit.
+
+Course: CY3740    Date: 2025-12-05
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Accessible outside class
+Review: I literally never use RateMyProfessor but it would be criminal not to praise Kaan.
+If you are thinking about taking this course, do it. Even if you aren't pursuing a career in security.
+Kaan is an expert at making you address your weaknesses in the material without making you feel bad about yourself.
+You WILL learn a ton-- challenging but rewarding
+
+Course: CY3740    Date: 2025-12-01
+Quality: 5/5    Difficulty: 3/5    Grade: N/A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Hilarious
+Review: The most helpful class I've taken at Northeastern. Kaan's lectures were very helpful and engaging and the topics discussed in class are very interesting and insightful. The coursework can be challenging, however the support from himself and the TAs was incredible.
+
+Course: CY3740    Date: 2025-11-30
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Inspirational, Hilarious, Lecture heavy
+Review: Kaan's class was extremely rewarding. It is important that lectures are attended as he does give live demos of things that you just can't really get on your own, but it's not graded on whether you go. The challenges he provides are genuinely tough but definitely not impossible especially given the support you can get from him and the TAs.
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Review: The best class I've ever taken! I gained a lot from every single session. Also, the teaching style is engaging and fun, and relevant to real life. 
+The assignments are definitely challenging. But, if you attend the office hours, Kaan always gives just the right amount of guidance to help you solve it.
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 3/5    Grade: B+    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Accessible outside class
+Review: Kaan is the kind of professor you actually want to get.  This has been the most valuable class ive taken at northeastern content wise, and kaan does it best.  Each lecture is entertaining and relates directly to assignments.  As long as you go to class you will be fine for the midterm and final.  Challenges can be difficult but very valuable.
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Clear grading criteria, Hilarious, Respected
+Review: Kaan has been the best professor I have had the pleasure listening to at Northeastern. He's incredibly personable but also a master at his craft. This is the one course I can comfortably say is worth the however many thousand dollars each class at Northeastern costs. You will be leaving lecture every week with ACTUAL practical skills. 11/10
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback, Respected
+Review: Class can definitely be difficult at times but it is so worth it, every challenge is truly a learning opportunity. Kaan cares a lot about student success and you come out of class feeling like a 1337 hacker with all your new knowledge ;)
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 3/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Review: Probably the best professor most people will have at Northeastern, and easily the most effort any of my professors have put into a class.
+
+Course: CY3740    Date: 2025-11-21
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Review: Easily one of the best courses all time.
+
+Course: CY3740    Date: 2025-11-19
+Quality: 5/5    Difficulty: 2/5    Grade: A-    Would Take Again: Yes
+Tags: Participation matters, Lots of homework, Lecture heavy
+Review: Kaan keeps challenges fresh and engaging. He's very approachable and gives you enough help where you can move past walls in the homework but still feel like you learned something. He helps you learn both technical and problem solving skills very well and rewards high performance.
+
+Course: CS5770    Date: 2025-08-11
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Respected
+Review: Kaan is one of the best professors I've had. CY 5770 is tough but incredibly rewarding, especially for those with a good C programming and Linux background. He pushes you to apply concepts creatively and organizes the material brilliantly.
+
+Course: CS5770    Date: 2025-08-11
+Quality: 5/5    Difficulty: 5/5    Grade: A-    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Respected
+Review: One of the best professors I've ever had. I recommend anyone who has a background in software security to take CY 5770 with Kaan. It was a difficult class, but it's a class I got the most learning out of. He pushes you to be a top-tier problem solver using the material you've learned in class, and organizes the class material extremely well.
+
+Course: CS5770    Date: 2025-08-11
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria
+Review: One of the most valuable classes I've taken at Northeastern. It was definitely challenging and at times demanding, but the experience was more than worth it. Kaan is one of the best professors I have ever had.
+
+Course: CS5770    Date: 2025-08-08
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Hilarious
+Review: If you have a chance to take a course under Kaan, just go for it. Keep in mind though, you need a certain level of C and Linux knowledge. If you have got the prerequisite knowledge, go for it probably gonna be the best course you have done in your program.
+
+Course: CS5770    Date: 2025-08-06
+Quality: 5/5    Difficulty: 1/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Hilarious
+Review: Kaan is the best!!! He is one of the best professors I've ever had. He explains complex cybersecurity concepts in ways that actually make sense, and his lectures are engaging and well organized. The assignments are challenging but fair and help build real-world skills. If you get a chance to take his class, do it!! you won't regret it!
+
+Course: CS5770    Date: 2025-08-05
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Inspirational
+Review: He is truly one of a kind&#8212;extremely knowledgable. Classes are fun. I learned a lot about cybersecurity throughout my degree, but I truly understood concepts when Kaan taught it. Some technical challenges he designs are tough but rewarding; builds technical confidence. Kaan gives his absolute best & his dedication to teaching is inspiring.
+
+Course: CS5770    Date: 2025-08-01
+Quality: 5/5    Difficulty: 2/5    Grade: N/A    Would Take Again: Yes
+Tags: Get ready to read, Amazing lectures , Gives good feedback
+Review: It's tough enough to make you question choices, but interesting enough not to skip it.
+
+Course: CY3740    Date: 2025-05-24
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: The most rewarding class I took at Northeastern. It was super difficult, but once you solved the challenges, it felt so satisfying. Khan put a lot of work into the structure of the class and it just shows. Kahn was a big part of how great this class was set up and I wouldn't have enjoyed the class as I strongly do if he wasn't the professor.
+
+Course: CY3740    Date: 2025-04-27
+Quality: 5/5    Difficulty: 3/5    Grade: A-    Would Take Again: Yes
+Tags: Amazing lectures , Respected
+Review: Kaan did a great job at keeping the class engaged, using real world examples to explain the content. He uses his work experience to give us motivation behind the content and activities in class. Kaan also did many in class demos and examples to show us how to complete our CTF's. The coursework was very rewarding, and Kaan was a fair grader.
+
+Course: CY3740    Date: 2025-04-21
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback, Hilarious
+Review: Easily one of the best classes I have taken at Northeastern. It was definitely difficult and time consuming sometimes, but incredibly rewarding. One of the few classes where I genuinely felt like I learned a lot. Kaan is an incredible professor. He's funny, engaging, and just brings a lot of enthusiasm to class which makes it worthwhile.
+
+Course: CY3740    Date: 2025-04-20
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Respected, Accessible outside class
+Review: I've said this too many of my friends, "Kaan is the best professor I have ever had." I don't think a second of my time taking this course was wasted, "challenges" (hw, CTF style) are super helpful in applying your learning from class (with a little learning left for outside of class). Exams were like 70% understanding hw, and going to lecture.
+
+Course: CY3740    Date: 2025-04-20
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Inspirational, Hilarious, Respected
+Review: By far the most engaging lecturer and most fun and educational class I have ever taken at Northeastern. In no other class have I ever felt this challenged and rewarded, Kaan really pushes his students to learn in so many different ways, and I feel so much more confident in all my cybersecurity skills. Super funny guy, just wish he had his beard :(.
+
+Course: CY3740    Date: 2025-04-17
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Hilarious, Lecture heavy
+Review: Kaan is an incredible professor. If you want to get into security, you have to take this class. He goes over all the fundamentals and is also a engaging professor. The homeworks are hands on CTF-style challenges, while the tests are more conceptual. Overall 10/10 class.
+
+Course: CY3740    Date: 2025-04-16
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Hilarious
+Review: Kaan says he tries to teach everything about security in 4 months, and he really does. He brings years of experiences to the classroom and is passionate, knowledgeable, and invested in the topics of this class and the future of the students taking it. This is easily my favorite class, and I would've regretted not taking it before I graduated.
+
+Course: CY3740    Date: 2025-04-16
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Review: Kaan is fantastic, it is obvious he cares deeply about the material. The class is tough, but lots of help is available.
+
+Course: CY3740    Date: 2025-04-14
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Lecture heavy, Online Savvy
+Review: Best professor by far. Almost failed just to take again. 
+First and only CS class I feel I have learned relevant material in.
+
+Course: CY3740    Date: 2025-04-09
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Inspirational, Hilarious, Respected
+Review: Before this class started I really wanted to be the first one to give him a bad review on this site but I literally just cannot do that. Fair play to the guy, he's an amazing teacher and I've never learned more than I have in this class.
+
+Course: CY3740    Date: 2025-04-07
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Hilarious
+Review: Amazing professor -- class is difficult but well worth the effort needed. Would recommend taking even if you are not necessarily interested in security as the course touches many core topics in CS such as networking, distributed systems, compilers, operating systems, and more. Challenges are fun and there is lots to learn from them
+
+Course: CY3740    Date: 2025-04-06
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Caring
+Review: Had a wonderful experience taking this class as CS major, by far the most I've learned in a NEU course. Couldn't have asked for a more amazing prof - Kaan is patient, inspirational, extremely knowledgeable, caring, and approachable. Lectures (theory, research, and demos) and challenges (hands-on, DIY) complement each other perfectly.
+
+Course: CY3740    Date: 2025-04-05
+Quality: 5/5    Difficulty: 5/5    Grade: A-    Would Take Again: Yes
+Tags: Inspirational, Respected, Lecture heavy
+Review: Best course this college
+
+Course: CY3740    Date: 2025-04-04
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Review: Kaan does what I have not seen before in other professors: keeping a 2-3 hour long lecture engaging, fun, and meaningful. Nearly every lecture is grouped together with a live demonstration of how to apply the concepts covered on the slides. These demonstrations often give pointers on where to start on challenges, giving some starting direction. -44
+
+Course: CY3740    Date: 2025-04-04
+Quality: 5/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Accessible outside class
+Review: This class is the best I've taken so far. Kaan is an excellent lecturer who keeps us engaged even during the late sessions that run until 9pm. The challenges are the highlight though - each one is intellectually stimulating and genuinely fun to solve. However, be prepared to spend lots of time on challenges! I can't recommend this class enough. -68
+
+Course: CY3740    Date: 2025-04-04
+Quality: 5/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria
+Review: Spent by far the most hours working on his homework out of the 4 classes I took this semester. However this was by far the best and most rewarding hours spent. His challenges/homeworks are always hard but relevant and fun. This class rewards you for your effort, if you take it be ready to give it your all. 
+-86
+
+Course: CY3740    Date: 2025-04-03
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious
+Review: Show up to class. I loved taking this class and doing his challenges. Lots of fun and so much learned. Highly recommend.
+
+Course: CY3740    Date: 2025-04-03
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Caring
+Review: Kaan is a very engaging professor for such a boring time slot
+
+Course: CY3740    Date: 2024-12-12
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Gives good feedback
+Review: If you're unsure about taking this class, take it. Kaan is one of my favorite Professors. He's highly knowledgeable and has years of experience in his field. CS3740 is uniquely structured, with most of your grade based on hands-on CTFs that expose you to real-world online threats. Kaan genuinely enjoys teaching and wants the best for his students.
+
+Course: CY3740    Date: 2024-12-12
+Quality: 5/5    Difficulty: 3/5    Grade: A+    Would Take Again: Yes
+Tags: EXTRA CREDIT, Clear grading criteria, Respected
+Review: Kaan's curriculum is awesome. Even as someone who enjoys security and regularly explores advanced topics, I still learned a lot from his class.
+Challenges are unique, fair, and engaging. They were by far the most fun homework I've ever done in my life. If you can figure things out and deliver results, you'll have no problem getting an A.
+
+Course: CY3740    Date: 2024-12-12
+Quality: 5/5    Difficulty: 3/5    Grade: N/A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Gives good feedback, Accessible outside class
+Review: This class was tough and challenges could take quite a bit to complete, but it was very intellectually challenging and Kaan equipped you with all you needed to solve them, given that you put some creativity into it. Very caring professor who wants to see his student succeed, and I'm glad I got to take this course!
+
+Course: CY3740    Date: 2024-12-10
+Quality: 5/5    Difficulty: 3/5    Grade: B-    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Caring
+Review: Kaan's class is certainly the most unique I've ever taken. Incredible teacher who knows his stuff thoroughly and cares deeply for students if you're willing to put in the effort.
+
+Course: CS5770    Date: 2024-08-17
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Lecture heavy
+Review: Professor covers all important topics and ensures the lectures are interesting. The challenges are fun and tests the understanding of fundamentals thoroughly.
+
+Course: CS5770    Date: 2024-08-14
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Accessible outside class
+Review: Prof. Onarlioglu's assignments are very fun and effective for learning practical skills. Lectures were well-organized and he was highly knowledgeable in all the content. He was very responsive and made sure support was always available outside of class (even answering questions at 4am). Overall, a funny and amazing professor that I highly recommend
+
+Course: CS5770    Date: 2024-08-12
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Hilarious
+Review: Loved the lectures and the many challenges.
+
+Course: CS5770    Date: 2024-08-11
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Gives good feedback, Caring, Accessible outside class
+Review: Kaan was the most prepared educator I've ever had. The challenge environment, concepts, and application of these concepts to real world scenarios tied together seamlessly. Have a question at 3am? Kaan's responding immediately. This is not an easy course, but I've gained more knowledge that I can apply to future work than from any other I've taken
+
+Course: CS5770    Date: 2024-08-07
+Quality: 5/5    Difficulty: 2/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Accessible outside class
+Review: I was told this before taking the class, and now I'll point out the same: It's the best class and instructor! I guarantee you will learn a lot. The assignments are challenging, but the feeling of achievement is priceless when you solve them. If you're not sure about your technical background, you better take this class alone just to fully enjoy it.
+
+Course: CS5770    Date: 2024-08-05
+Quality: 5/5    Difficulty: 4/5    Grade: B    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious
+Review: Kaan is an amazing professor. I struggled but I learnt a lot and did things I didn't think I could do. 11/10 would recommend. Everyone needs to take this course under Kaan.
+
+Course: CY3740    Date: 2024-05-01
+Quality: 5/5    Difficulty: 4/5    Grade: B    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Accessible outside class
+Review: Kaan is a great lecturer and his homeworks are difficult but enjoyable. Also, there is office hours every week and constant support on Piazza so you are not alone at all, you will have plenty of help if you need it. If you have an interest in security at all, take this class, it's the best one I have taken at Northeastern and I have learned a ton.
+
+Course: CY3740    Date: 2024-04-30
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Hilarious
+Review: Kaan is an amazing lecturer. He will keep you engaged with his enthusiasm and the occasional funny slides that pops up. He explains things very well and is very understandable. His course is also very hands-on while also balancing it with theory side. All in all, I really enjoyed this class and I learned a lot from it. Would take again!
+
+Course: CY3740    Date: 2024-04-24
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: Absolutely one of the best profs at Northeastern. Weekly lectures are fast paced and intense, but the material is presented incredibly clearly and Kaan is always willing to slow down for tricky concepts. The CTF-style homeworks are super fun and a great training ground for your technical skills, and the exams are great too! Expect to learn a ton.
+
+Course: CY3740    Date: 2024-04-18
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Accessible outside class
+Review: Syssec will be the best cybersecurity class you take at Northeastern. Not only is Kaan an amazing lecturer--complete with anime references and top-tier memes littered throughout his slides--but his assignments are second to none. His CTF homeworks are a blast and he and the TAs are always available outside of class for assistance (even at 4am).
+
+Course: CY3740    Date: 2024-04-12
+Quality: 5/5    Difficulty: 5/5    Grade: N/A    Would Take Again: Yes
+Tags: Tough grader, Gives good feedback, Inspirational
+Review: One of the best courses I have taken at Northeastern. I learnt so much from this class, and the 3-hour lecture per week goes like a breeze. I always look forward to what is to come next week. The content is hard for someone like me who has no prior exposure to security, but the support to successfully complete the course is impeccable.
+
+Course: CY3740    Date: 2023-12-08
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: Kaan is extremely passionate about the course material and teaching his students. Without a doubt, this was both my favorite class I've taken at Northeastern, measured by my ability to retain focus in and out of class, and most rewarding. The challenges will push your understanding of the course material to the next level, in a gamified fun way.
+
+Course: CY3740    Date: 2023-12-08
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Review: Interesting, fun and challenging class. As a CS major this was the first security class I enjoyed. Lectures are well planned and entertaining. Homework is time consuming but you gain experience using real world attacks.
+
+Course: CS5770    Date: 2023-08-29
+Quality: 5/5    Difficulty: 5/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Hilarious
+Review: Class was very fun and interesting. Homework is hard. Require shell bash scripting, but it is easy to learn. Exams are in person and written. Bonus points available to help with low exam scores. Office hours are extremely helpful. Only recommend this to student that wants a challenge and is confident in their CS knowledge/finesse.
+
+Course: CS5770    Date: 2023-08-15
+Quality: 5/5    Difficulty: 5/5    Grade: A+    Would Take Again: Yes
+Review: Professor Kaan's lectures are amazing, he provides extra support to understand the concepts. His lectures are super intense and funny at the same time. His classes are worth your time and money :) In short he is the CoOlEsT and BeSt teacher I have ever had!! If you have a chance to take his class, without a doubt TAKE IT!!
+
+Course: CS5770    Date: 2023-08-12
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Get ready to read, Amazing lectures , Gives good feedback
+Review: Coolest professor you'll ever meet, if you are given the choice to take only one security class in your life, BLINDLY GO FOR THIS CLASS !
+
+Course: CS5770    Date: 2023-08-12
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Caring
+Review: Kaan might be the best professor I've ever had. His subject matter expertise is inspiring, he gives detailed information in lectures, and he cares so much about the topic that he set up his own hacking lab for students to exploit vulnerabilities. This was the most demanding class I've taken at NU; it was well-worth the challenge. Take his class.
+
+Course: CS5770    Date: 2023-08-08
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Hilarious
+Review: Hands down!! The best course I have ever taken in academia. The course structure is brilliant and you will get addicted to challenges(you get to see your number on class rankings website in real-time :) ). Great piazza and one to one support. Extra credits saved the day. The stories/memes are great too. Salute Kaan!
+
+Course: CS5770    Date: 2023-08-01
+Quality: 5/5    Difficulty: 2/5    Grade: N/A    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Inspirational
+Review: Professor Kaan excels in teaching, crafting real-world-aligned assignments, and fostering accessibility through Piazza. His support and mentorship leave a transformative impact on student's academic journeys. A true beacon of excellence in education. I wish I had taken his class earlier during my master's program.
+
+Course: CS5770    Date: 2023-07-31
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Hilarious
+Review: For a three month course, the structure was perfect to go over a wide variety of system security topics. Anyone even remotely interested in software security should take Kaan's class. His commitment to the course, engaging lectures, availability outside of class hours are second to none. Challenges simulate real world attacks and are super fun!
+
+Course: CS5770    Date: 2023-07-28
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Inspirational
+Review: Kaan is a security guru we all wish we had lol. His teaching style is spot-on, making cybersecurity a breeze. 
+The challenges? Intuitively fun! His cutting-edge research and legendary stories are just the icing on the cake!
+
+Course: CY3740    Date: 2023-04-20
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Hilarious
+Review: Kaan is an amazing lecturer, knows his stuff, and cares about students. The lectures teach concepts and a security mindset, while the challenges (homework) are fun and teach practical skills. Grading is straightforward and fair. Kaan made an entire Arch Linux lab environment for this class, which should say enough about how much effort he puts in.
+
+Course: CY3740    Date: 2023-04-17
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Clear grading criteria, Online Savvy
+Review: Every student who has the chance to take syssec with Kaan should. Best class I've taken at Northeastern. Homeworks and challenges were fun and addictive. You learn a lot too. Kaan puts a lot of effort and passion into the class, and it shows.
+
+Course: CY3740    Date: 2023-04-17
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Respected
+Review: CY3740 was an indispensable course that gave me a well-structured and fundamental understanding of system security. Kaan is funny and entertaining in class and always ready to answer questions for his students. He always finds a way to hold the student's attention. In other classes, I would be distracted, but never in kaan's class.
+
+Course: CY3740    Date: 2023-04-17
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Hilarious
+Review: Kaan is extremely knowledgeable about security and is a very engaging lecturer. Lectures are very informative and the slide decks are great. Challenges are somewhat difficult but definitely a lot of fun.
+
+Course: CY3740    Date: 2023-04-10
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Clear grading criteria, Accessible outside class
+Review: Kaan is really great. He is knowledgeable, really funny, and is always trying to make himself available. He responds on Piazza fairly quickly and gets grades back usually by the next class. Kaan has no problem being real about his opinions and is always trying to educate on past security issues that we should learn from.
+
+Course: CY3740    Date: 2023-04-08
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Amazing lectures , Lecture heavy, Accessible outside class
+Review: Kaan was an admirable professor, not only is he extremely knowledgeable about this field, he wants us to succeed as long as you put in the work. This is a very challenging class in terms of the homework "challenges" that are given to us, but I promise you will have a clear understanding of certain security aspects after this course. 11/10 recommend
+
+Course: CY3740    Date: 2023-04-07
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Respected
+Review: He's an amazing professor. He is also one of the best researchers in security, just look up his google scholar. You will learn a lot in this course.
+
+Course: CY3740    Date: 2022-12-12
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Accessible outside class
+Review: Kaan is an absolute legend, and this course might be the best one I've taken at Northeastern so far. The challenges are somewhat difficult with no prior experience, but he's super responsive online and has office hours after class--if you get stuck somewhere, you aren't left to bang your head against a wall. 10/10, take this class if you can!
+
+Course: CY3740    Date: 2022-12-07
+Quality: 5/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Caring, Respected
+Review: This was honestly one of the most difficult classes I've taken. I spent a lot of late nights thinking about buffer overflows and cross site scripting. Nonetheless, I found that I've also learned so much from Kaan's class. He's incredibly knowledgeable, charming, and one of the most caring professors I have met. Also he's simply a security wizard.
+
+Course: CY3740    Date: 2022-12-03
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Inspirational, Hilarious, Accessible outside class
+Review: Kaan is very likely one of the best professors at Northeastern. He's *extremely* skilled and *very* accessible after class. I'd highly recommend taking his class if you have the chance, even if it's at night (don't worry: the class almost never ran more than 2-2.5 hours). The challenges can be difficult; but it is definitely worth the experience.
+
+Course: CY3740    Date: 2022-11-17
+Quality: 5/5    Difficulty: 3/5    Grade: B    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Accessible outside class
+Review: Extremely effective lectures and assignments. Everything is usable in the real-world and the grading is based on whether you do the assignment or not. No scores, no partial credit. You either did the assignment or you didn't. The professor is super accessible if you need help and will generally respond quite quickly to questions.
+
+Course: CS5770    Date: 2022-08-07
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Gives good feedback
+Review: A great course with a well-rounded syllabus and amazing lectures. Professor's delivery and explanations ensure that you understand the content from the ground up. The exams and assignments are fun and practically applicable in the real world. I feel better prepared to enter the world of security after this course. Would definitely recommend it!
+
+Course: CS5770    Date: 2022-08-06
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Clear grading criteria, Gives good feedback, Accessible outside class
+Review: Incredibly interesting and challenging course.  I really enjoyed this class and I learned a lot
+
+Course: CS5770    Date: 2022-08-02
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Hilarious, Accessible outside class
+Review: This is a great class and you will learn a lot, but you need to do the work. There's no way to bullshit the assignments for partial credit, you need to commit to figuring them out start to finish. Lectures cover a lot of in-depth technical material useful for security career. Tons of opportunities for extra credit for those who want it.
+
+Course: CS5770    Date: 2022-07-31
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Hilarious
+Review: Coming from a Game Dev background, I was shown how beautiful security is and absolutely loved every challenge and especially the fact where we having to be self disciplined as there were only 2 deadlines.
+
+Course: CS5770    Date: 2022-07-28
+Quality: 5/5    Difficulty: 5/5    Grade: A+    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Respected
+Review: Hey Folks, 
+
+So if you are here, That means you are in dilemma to take this course?
+
+I am a student who took this course with the same dilemma and you know what? This is one of the greatest dilemma decisions of my life which yielded astonishing results. Go for it. You will love what you are doing. This is the real world, real challenges. GOAT!
+
+Course: CS5770    Date: 2022-07-27
+Quality: 5/5    Difficulty: 3/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Hilarious
+Review: One of the best classes I have ever taken at Northeastern, Cant find anyone better at teaching security than him!
+
+Course: CY3740    Date: 2022-05-09
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Accessible outside class
+Review: Kaan is easily the best professor I have ever had at Northeastern. Great lectures, great challenges, and very accessible outside of class. I learned more from him and his class than every other class here combined. If you can take CY3740 for CY5770 with him, do it!
+
+Course: CY3740    Date: 2022-04-30
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Accessible outside class
+Review: Great real-world experience, hugely accessible and helpful.
+
+Course: CY3740    Date: 2022-04-29
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Accessible outside class, Online Savvy
+Review: If you are remotely interested in Security, take this class. Kaan is a great guy, and the challenges are by far the best part of it all.
+
+Course: CY3740    Date: 2022-04-19
+Quality: 5/5    Difficulty: 3/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: EXTRA CREDIT, Hilarious, Accessible outside class
+Review: This is probably one of the best classes I've ever taken, and Kaan is a major reason for that. If you like solving puzzles/challenges at all, you have to take this class. The homeworks in this class are pretty much "here's what you have to break, here's some hints, go", and they're incredibly fun. Plus, Kaan's always there to help if you get stuck.
+
+Course: CY3740    Date: 2022-04-15
+Quality: 5/5    Difficulty: 3/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures
+Review: CY3740 was one of the most entertaining classes I've ever taken. Kaan lectures on interesting topics and the challenges he creates are awesome. No doubt, Kaan's challenges will make you struggle and feel frustrated, but they are so well crafted that the sense of satisfaction you feel after completion is unlike anything.
+
+Course: CY3740    Date: 2022-04-07
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Respected
+Review: Out of all professors I have had at Northeastern University, Kaan has been THE BEST professor. He is extremely knowledgeable and translates complicated topics into understandable lectures. His assignments provide practical experience in exploitation and are also fun/engaging :)
+
+Course: CY3740    Date: 2022-04-07
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Caring
+Review: Fantastically designed the class with applicable challenges as hw. Very accessible outside of the class for hw help. 10/10 would take again.
+
+Course: CY3740    Date: 2022-04-07
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT
+Review: Very interesting and fun challenges
+
+Course: CY3740    Date: 2021-12-03
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Accessible outside class, Amazing lectures, EXTRA CREDIT
+Review: If you have even a remote interest in cybersecurity you need to take this class with him. It's gonna be tough but you'll learn so much along the way and Kaan is a chill guy, so he'll always help you. There really isn't any book that'll teach you this stuff. You'll struggle through the challenges, but the high after solving them is worth it.
+
+Course: CS5770    Date: 2018-07-30
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: Hilarious, Amazing lectures, EXTRA CREDIT
+Review: He is a great teacher and always ready to help you. The assignments will be tough if you have no previous experience in the Security field but if you ask a question he will guide you through the solutions.

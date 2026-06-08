@@ -1,0 +1,146 @@
+Joydeep Mitra
+Department: Computer Science
+Overall Quality: 3.2 / 5 (based on 28 ratings)
+Average Difficulty: 3.7 / 5
+Would Take Again: 54%
+
+============================================================
+REVIEWS
+============================================================
+
+Course: CS5500    Date: 2026-04-23
+Quality: 1/5    Difficulty: 5/5    Grade: N/A    Would Take Again: N/A
+Review: Did not expect much and still got disappointed
+
+Course: CS5010    Date: 2026-04-13
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: Tough grader, Amazing lectures , Lots of homework
+Review: Very knowledgeable and professional professor. I loved the lectures, most interactive I have ever experienced in a CS classroom. My only issue is his assignments are really time consuming. He should give less work. However, I did learn a lot from them.
+
+Course: CS5500    Date: 2026-04-07
+Quality: 2/5    Difficulty: 5/5    Grade: D+    Would Take Again: N/A
+Tags: Get ready to read, Clear grading criteria
+Review: Taking classes with Professor Marpaung and Professor Mitra at Northeastern University feels like facing Shaquille O'Neal and Kobe Bryant in their prime an unstoppable duo when it comes to deterring GPAs. Both are highly knowledgeable and demanding, but their tough grading and high expectations make earning top marks a real challenge.
+
+Course: CS5010    Date: 2026-03-26
+Quality: 2/5    Difficulty: 3/5    Grade: Not sure yet    Would Take Again: N/A
+Review: He is the worst professor to ask questions. the hw are confusing so i asks for clarification every time he say "read the specification" I'm like would i ask that question if the homework wasn't so confusing. i ask because the wording is confusing in the homework and he tells me to go back and reread the hw. other than that hes a great professor
+
+Course: CS5010    Date: 2026-03-02
+Quality: 5/5    Difficulty: 2/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Get ready to read, Amazing lectures , Accessible outside class
+Review: The course is challenging but satisfying! I finally understood what program design truly means. There are multiple sections of this course. They all cover the same material. Mitra's lectures are by far the best.
+
+Course: CS5010    Date: 2026-02-10
+Quality: 5/5    Difficulty: 2/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Gives good feedback
+Review: Great course! Learned a lot. If you attend lectures you will pretty much know how do the assignments and labs. A lot of people don't come to class thinking the material is easy and then they lose a lot of points in the homeworks.
+
+Course: CS5010    Date: 2026-02-05
+Quality: 1/5    Difficulty: 5/5    Grade: B    Would Take Again: N/A
+Review: Grading is arbitrary, and lectures do not cover what is on the hw. The professor heavily uses hidden autograder tests that students cannot see, and many grade marks are unfairly lost as a result. Hw's are poorly written with many typos and missing details, and are often misaligned with what the autograder expects. TA's are antagonistic.
+
+Course: CS5010    Date: 2026-01-13
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Tough grader, Amazing lectures , Accessible outside class
+Review: I had experience working in industry before taking this course. But even then I came across concepts that were completely new to me. I felt like this course made me reflect on how I used to code before. While Prof. Mitra is quite organized and gives great lectures, I wish he worded his assignments less ambiguously. Overall the course is great!
+
+Course: CS5010    Date: 2026-01-08
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Group projects, Lots of homework, Accessible outside class
+Review: CS5010 is one of my favorite classes. It made a better programmer. I took the course with Shesh and Mitra. Both were pretty great professors and very accesible.
+
+Course: CS5010    Date: 2026-01-08
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: Tough grader, Group projects, Amazing lectures
+Review: I found this course quite useful. Mitra makes the lectures interesting. The assignments are the most valuable thing about the course. I also learned concepts I hadn't heard about before like mutation testing. Definitely recommend this class.
+
+Course: CS5010    Date: 2026-01-05
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Review: Rubrics are a surprise after you submit the assignment, lose points if you don't have exact test cases and way too many points are determined by code structure. Asked him to look at a regrade and he just denied it without saying anything.
+
+Course: CS5500    Date: 2025-08-25
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Accessible outside class
+Review: This class helped me understand and appreciate the agile process. The tools we learned are very relevant. I found the lectures on security and threat modeling very useful as I hadn't done anything like this before. One of the better courses I have taken at Northeastern.
+
+Course: CS5500    Date: 2025-04-28
+Quality: 5/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: Group projects, Gives good feedback, Lecture heavy
+Review: The class is very well organized. It dives deep into modern software development practices. I found the the module on threat modeling super useful. The assignments and the group project really help you apply the concepts and not just learn the theory. Highly recommend this class with Mitra
+
+Course: CS5010    Date: 2025-04-28
+Quality: 5/5    Difficulty: 3/5    Grade: A-    Would Take Again: Yes
+Tags: Tough grader, Inspirational, Accessible outside class
+Review: Prof. Mitra's lectures in PDP are fantastic! I love the way he engages with the students in a respectful and interactive way. I learned so much by just going to the lectures and reading the notes. Taking PDP helped me do well in my internship interviews.
+
+Course: CS5010    Date: 2025-04-28
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Participation matters, Group projects
+Review: PDP with Mitra is a very satisfying experience. I though I knew Java but this class really helped me understand what clean code means. Definitely recommend taking this class!
+
+Course: CS5010    Date: 2025-02-24
+Quality: 1/5    Difficulty: 5/5    Grade: D-    Would Take Again: N/A
+Tags: Lots of homework, Lecture heavy, Graded by few things
+Review: Terrible Professor. Do not take him. Doesn't even let you choose your own teammates for projects.
+
+Course: CS5500    Date: 2025-02-19
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Participation matters, Amazing lectures , Accessible outside class
+Review: Really useful if you want to learn full stack development
+
+Course: CS5010    Date: 2025-01-28
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: Clear grading criteria, Accessible outside class
+Review: Class was taught well, I understood everything presented and enjoyed the assignments. Some assignments were stressful in terms of deadlines, but the content was very digestible. Grading criteria for assignments were harsh, but they have aided me in writing comprehensive tests in the future.
+
+Course: CS5500    Date: 2025-01-28
+Quality: 1/5    Difficulty: 5/5    Grade: A-    Would Take Again: N/A
+Tags: Lots of homework, Lecture heavy, Test heavy
+Review: Worst professor I have ever had. He thinks lots of content makes him a good professor, but it really makes the experience terrible for everyone. He killed morale in the class on day #1.
+
+Course: CS5010    Date: 2024-11-13
+Quality: 5/5    Difficulty: 1/5    Grade: A-    Would Take Again: Yes
+Review: Joydeep Mitra is by far the best professor to take PDP with. The class is inherently difficult because of all the work, the lectures are pretty straight forward though. The school work is a bit annoying but if you put the time in you shouldn't have a problem getting at least B in PDP. PDP does suck though.
+
+Course: CS5500    Date: 2023-12-19
+Quality: 5/5    Difficulty: 1/5    Grade: A+    Would Take Again: Yes
+Tags: Amazing lectures , Gives good feedback, Inspirational
+Review: Best CS Professor at Northeastern. I loved learning about ALUs.
+
+Course: CS5500    Date: 2023-12-19
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: Group projects, Clear grading criteria, Gives good feedback
+Review: Learned a lot and gained MERN stack experience. Mitra benches more than you.
+
+Course: CS5500    Date: 2023-12-16
+Quality: 1/5    Difficulty: 5/5    Grade: B-    Would Take Again: N/A
+Tags: Tough grader, So many papers, Test heavy
+Review: Worst course.Overwhelming workload with project-like assignments, exams, class activities, & final project. Instructor reads from slides without ensuring student understanding. Significant portion of grades lies on last week's performance, with 25% for project & 35% for exam. If you don't perform well in final week, grades will significantly drop.
+
+Course: CS5500    Date: 2023-12-11
+Quality: 1/5    Difficulty: 5/5    Grade: B-    Would Take Again: N/A
+Tags: Tough grader, Participation matters, Test heavy
+Review: Only take this course if you want to lose your sanity. Extremely boring and unhelpful lectures with 5% for attendance. Assignment every 2 weeks which are no where related to class slides. A pen and paper based midterm exam where he expects us to pretend to be a compiler. The exam was lengthy and unable to finish within time.
+
+Course: CS5500    Date: 2023-12-11
+Quality: 1/5    Difficulty: 5/5    Grade: Rather not say    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Lecture heavy
+Review: DO NOT TAKE HIS CS5500. The whole class is doing MERN stack web development, using JavaScript the whole time. Yes, you can learn a lot - by yourself! So many lecture notes and theories, none of them help you do the project - which is the homework. The course content is so tough, the project is so heavy, and pen-paper exam for coding?? INCREDIBLE
+
+Course: CS5500    Date: 2023-12-10
+Quality: 1/5    Difficulty: 5/5    Grade: A-    Would Take Again: N/A
+Tags: Group projects, Lecture heavy
+Review: Classes are EXTREMELY boring. Exams are hard. The assignments are all connected together so if you screw one up, you screw them all up. He's not very friendly. The exam grading is very strict. The course overall sucks. I have lost all interest in full stack development. Don't ever take this course under this professor.
+
+Course: CS5500    Date: 2023-11-29
+Quality: 1/5    Difficulty: 5/5    Grade: B    Would Take Again: N/A
+Tags: Tough grader, Participation matters, Lots of homework
+Review: probably the worst class I have taken at northeastern. he packs assignments and exams to the absolute maximum and he was confused when the class average was a D- on the midterm and refusing to curve it. assignments take a very long time because he wants everyone to know web dev, and is not even teaching 5500, he randomly started teaching 5610.
+
+Course: CS5500    Date: 2023-11-11
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Test heavy
+Review: Doesn't really care about the overall performance of students. Very strict grader and conducts pen-paper style exams (Students have to read the code and write answers on a sheet). Even after the exam, he won't allow you to see or discuss the grading.
+
+Additionally, his lectures are poorly designed, covered entire full stack dev in just 2 lectures!

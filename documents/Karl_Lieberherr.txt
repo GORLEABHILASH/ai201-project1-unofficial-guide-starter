@@ -1,0 +1,210 @@
+Karl Lieberherr
+Department: Computer Science
+Overall Quality: 2.4 / 5 (based on 41 ratings)
+Average Difficulty: 4 / 5
+Would Take Again: 26%
+
+============================================================
+REVIEWS
+============================================================
+
+Course: CS1101    Date: 2026-04-28
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader, Group projects, Test heavy
+Review: RUN. taught by claude, assignments and tests written by claude, probably graded by claude. makeup exams are nice and saved my grade, LONG learning curve to get to an A; thought i was going to have to withdraw. sorry econ and other cssh students, he expects existing calc and cs experience; good luck.
+
+Course: CS1101    Date: 2026-04-26
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Lots of homework
+Review: Have to learn all material outside of class on your own time. He told us we were overly reliant on AI when AI use was required on homework. Assignments take 7+ hours. I should end with an A, only thanks to retakes and lots of extra credit. If you want a good grade, prepare to be overworked. The A cannot make up for the emotional toll.
+
+Course: CS1100    Date: 2026-04-08
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Test heavy
+Review: This man made me consider lying on the green line tracks. I once drank while doing homework in the hopes of alcohol poisoning taking me out. 13+ hours on weekly homework assignments. Forced to be taught by AI. Tests are incredibly hard, and lectures are AI-based. Tests average 40%, no curve, only one retake per test. i really considered it
+
+Course: CS1100    Date: 2026-03-28
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Online Savvy
+Review: Probably the worst professor at Northeastern. You cannot understand what he is saying most of the time. The TAs are not helpful and take days to respond to even the most basic questions. Exam averages were around a 50, and weekly assignments take hours to complete.  Avoid this class.
+
+Course: CS1101    Date: 2026-02-19
+Quality: 1/5    Difficulty: 4/5    Grade: Incomplete    Would Take Again: N/A
+Tags: Lots of homework
+Review: Pros:
+- Lots of time spent in Excel, great for experience
+- LAMBDA knowledge definitely sets you apart from most users
+
+Cons:
+- Weekly assignments always a number 1 priority (shortest one took me 6 hours.)
+- Instructions for these assignments are super unclear
+- TA help isn't great
+- Huge over-reliance on AI teaching
+- First few weeks are brutal
+
+Course: CS1100    Date: 2025-12-10
+Quality: 1/5    Difficulty: 4/5    Grade: B    Would Take Again: N/A
+Review: Seriously avoid this class if possible. I took it because I needed a class with a lab for 5 credits and this was offered online. Serious mistake. The assignments are very hard and the professor essentially makes you use AI to learn everything and do the assignments. However, on exams, you cant use AI which makes them very difficult.
+
+Course: CS1100    Date: 2025-10-16
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Lecture heavy, Test heavy
+Review: By far the worst professor I've had at Northeastern. As someone with ZERO excel experience/knowledge, I took this course thinking it would be an introductory course (1000 course). But, this professor has decided to overcomplicate topics as if we're all experts at CS, designed hellish weekly assignments, and the TAs are unhelpful.
+
+Course: CS1101    Date: 2025-07-20
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: I'm an economics and business administration major, and this class was rough. Tests were hard, tons of homework, and honestly just not worth it if you're not a CS major. Wouldn't take it again.
+
+Course: CS1101    Date: 2025-04-09
+Quality: 2/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Review: Assignments took hours and hours and made absolutely zero sense. If you are an Econ major and need this for reqs take either of the other courses offered and save yourself.
+
+Course: CS1100    Date: 2025-04-08
+Quality: 1/5    Difficulty: 5/5    Grade: A-    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Accessible outside class
+Review: If you're a CSSH major (or basically just not cs and don't have much experience w/ excel) avoid taking this class. All i can say is thank god there were makeup exams otherwise I would have failed
+
+Course: CS1100    Date: 2025-01-14
+Quality: 1/5    Difficulty: 5/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Review: I spent one week in this class before dropping it. I cried myself to sleep every single night. Most of the TA's are useless except the girl one. This class is impossible if you have no cs background. Holy hell. Zero guidance, no one teaches you anything, actual hell on earth. Run, run, run, run, run, run.
+
+Course: CS1100    Date: 2024-11-28
+Quality: 1/5    Difficulty: 4/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: This class was hybrid. The online portion was very easy, I had an A. However, the lab portion of this class was stupidly difficult. It did not match the online portion and Dr. Lieberherr did not seem to understand that this was an intro level class for non-CS majors. Assignments took HOURS to complete, and he made us use ChatGPT to teach ourselves.
+
+Course: CS1100    Date: 2024-11-19
+Quality: 2/5    Difficulty: 5/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: I took this class as a requirement for Criminal Justice, but dropped it without a W a few weeks in. Online lecture material is taught by a different professor and is barely (if at all) related to weekly assignments. Weekly assignments take multiple hours a day to complete, they are confusing and frustrating. I do not recommend this class at all.
+
+Course: CS1101    Date: 2024-04-20
+Quality: 4/5    Difficulty: 5/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Review: Run. Whole class tested 33% average score on exam 1, we all almost failed. I am an elite academic and had never withdrawn from anything ever. I withdrew from this. Run, you will not pass. Run.
+
+Course: CS1101    Date: 2024-04-11
+Quality: 1/5    Difficulty: 5/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Tags: Lots of homework, Test heavy, Graded by few things
+Review: Genuinely the worst course I have ever taken. This professor does not teach, and he relies on ChatGPT, yet you can not use it on exams. The TAs grade everything! It is way too difficult for an intro class, and just horrible. Do not take.
+
+Course: CS1100    Date: 2024-02-28
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Test heavy
+Review: Run.
+
+Course: CS1100    Date: 2024-01-31
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: honestly save yourself while you can.
+
+Course: CS1100    Date: 2023-12-19
+Quality: 2/5    Difficulty: 5/5    Grade: B+    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: This class is unnecessarily difficult for an intro class. Assignments take 12+ hours to complete, so it just feels like the work is never-ending. Weekly lab sessions are essential because it's the only time you can get in-person help. Go to TA office hours even if you feel like your question is insignificant because the grading can be harsh.
+
+Course: CS1100    Date: 2023-12-08
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Lots of homework
+Review: This class was basically Excel 101 which is super helpful for future jobs. Almost all of the learning is done outside of class on your own time. We met once a week and the professor would work through problems. The assignments can be tedious and long but are doable. The use of ChatGPT plus was required for the class.
+
+Course: CS1101    Date: 2023-12-08
+Quality: 2/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Lots of homework
+Review: Prof Lieberherr isn't uncaring towards his students, he is just so out of touch with them he doesn't realize how unrealistic his curriculum is. The hw & online modules were extremely outdated and clearly hadn't been revised in a while. Helpful when I would come to him for office hours, thats abt it. Unreasonably difficult class. Avoid if possible.
+
+Course: CS1100    Date: 2023-11-24
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Lots of homework
+Review: If you have to take this course I'm sorry, it is impossibly hard due to Prof Lieberherr. The online course material is confusing and hard to follow. The in-class labs are useless, when you ask a question he will pull up ChatGPT and tell you how it will answer it. Assignments and exams are hard to read and deceptive in what part is being graded
+
+Course: CS1100    Date: 2023-09-18
+Quality: 1/5    Difficulty: 4/5    Grade: Rather not say    Would Take Again: N/A
+Tags: Tough grader
+Review: This professor does not teach anything, only advice I have for you is to make sure to show up to class because the one-hour labs per week is useful to completing SOME parts of the 4-5 hour long time-consuming assignments. Way too much content for an introductory course, and way less teaching. Now he has implemented chat-GPT teaching, good luck.
+
+Course: CS1101    Date: 2023-06-21
+Quality: 1/5    Difficulty: 5/5    Grade: Drop/Withdrawal    Would Take Again: N/A
+Tags: Group projects, Lots of homework
+Review: Weekly 1 hour class barely scratched the surface of what we actually needed to know for the assignments. Highly advise against taking this class unless it's a requirement, you will be countless hours working on the weekly project. There are 2 exams each worth 25% of the grade, so you have no choice but to learn it
+
+Course: CS1101    Date: 2022-04-26
+Quality: 4/5    Difficulty: 4/5    Grade: A-    Would Take Again: N/A
+Tags: Lots of homework
+Review: Online lectures are useless. They tell you the basics of functions but you must figure out how to use them. Lab sessions are essential, as he goes through assignment for the week and teaches you how to do it. Quizzes easy grade boosters, but assignments are confusing, unclear, time consuming and hard. Prof is good but class is structured terribly.
+
+Course: CS1100    Date: 2022-04-24
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Test heavy
+Review: Weekly 1 hour class barely scratched the surface of what we actually needed to know for the assignments. Highly advise against taking this class unless it's a requirement, you will be spending 1 day every week cooped up inside trying to complete the assignments. There are 2 exams each worth 25% of the grade, so you have no choice but to learn it
+
+Course: CS1101    Date: 2022-03-08
+Quality: 4/5    Difficulty: 4/5    Grade: A-    Would Take Again: Yes
+Tags: Clear grading criteria, Lots of homework, Respected
+Review: Great professor, I just hated the class. Just make sure you do well on the assignments because that really helps, but there&#39;s an assignment due every week which took up my whole weekend. There&#39;s two exams, I got a 65 on the first exam and still ended up with an A-. The 1st exam was harder than the 2nd.
+
+Course: CS1101    Date: 2021-11-27
+Quality: 4/5    Difficulty: 3/5    Grade: N/A    Would Take Again: Yes
+Tags: Accessible outside class, Graded by few things, Clear grading criteria
+Review: As a Psych-CJ major taking this course as a requirement, I am so thankful to have had Professor Lieberherr. Though the online portion is less than ideal, Lieberherr makes up for it by giving useful and easily digested information during class. I never thought I'd be able to understand CS in any capacity, but Lieberherr has changed my mind.
+
+Course: CS1100    Date: 2021-06-02
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Review: I went to Professor Karl's office hour twice. He is extremely willing to help, so if you get stuck by the homework, don't hesitate to ask him.
+
+Course: CS1100    Date: 2021-05-05
+Quality: 5/5    Difficulty: 1/5    Grade: A    Would Take Again: Yes
+Tags: Lots of homework, Accessible outside class, Lecture heavy
+Review: Class is based mainly on weekly homeworks and one project
+
+Course: CS1100    Date: 2020-02-24
+Quality: 5/5    Difficulty: 1/5    Grade: Not sure yet    Would Take Again: Yes
+Review: Very good
+
+Course: CS1100    Date: 2018-12-09
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, Caring
+Review: One of my favorite professors at Northeastern. I had him for CS1100, and while my friends who had other professors were complaining, I had nothing to add. The class itself is mostly self-driven, so if you do not like that its an issue with the course, not the professor. Karl was available outside class time to help and is really such a kind person!
+
+Course: CS1100    Date: 2018-11-29
+Quality: 5/5    Difficulty: 4/5    Grade: A+    Would Take Again: Yes
+Tags: Get ready to read, Skip class? You won't pass., LOTS OF HOMEWORK
+Review: All learning is watching online lectures, then review is done in class. Watch them and take notes before class. Be prepared to be called on! Only 1 65 min class a week, but 10+ hours spent outside of class. Prof is quiet unless asked a question, but is very knowledgable and a sweet man if you talk to him! Hated class at first, ended up loving it!
+
+Course: CS1100    Date: 2017-05-01
+Quality: 4/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: ACCESSIBLE OUTSIDE CLASS, EXTRA CREDIT
+Review: for the required class for a lot of different majors, prof lieberheerr was good. if something was unclear, he would explain it and make sure you understood. but the class itself required a lot of work outside of the meeting time, but thats with any professor you choose to take it with.
+
+Course: CS1100    Date: 2016-12-18
+Quality: 1/5    Difficulty: 4/5    Grade: B+    Would Take Again: No
+Tags: Skip class? You won't pass., LOTS OF HOMEWORK
+Review: This was the most work i've ever had for a course so far and it was only an 1000 level course. The professor doesn't explain anything. You are expected to teach yourself all the material by watching the online lectures before attending class. Class is once a week. Not nearly enough time to understand any of the material. Don't take this class.
+
+Course: CSG711    Date: 2015-07-07
+Quality: 3/5    Difficulty: 4/5    Grade: N/A    Would Take Again: N/A
+Review: I took the class twice... the first time was during my very first quarter of graduate school and I dropped it after 2 weeks because it was hopelessly more complex than I could understand.   I took it again during my last quarter and was AMAZED at the depth of information Karl presented.  He remains one of my two best graduate school professors.
+
+Course: CS4800    Date: 2011-04-28
+Quality: 4/5    Difficulty: 2/5    Grade: N/A    Would Take Again: N/A
+Review: The man is an enigma. He has you learn algorithms through the use of a &quot;game&quot;, which in theory is a very novel approach. In practice, it's sometimes a little silly (especially when you play by yourself). In class, he's fairly clear and is very receptive to people asking questions. Exams are open note.
+
+Course: CS4800    Date: 2011-04-14
+Quality: 2/5    Difficulty: 4/5    Grade: N/A    Would Take Again: N/A
+Review: The Game is useless and even if you ask exactly what you need to turn in for homeworks, you'll still be missing something. Avoid if possible, but you probably won't be able to.
+
+Course: CSU670    Date: 2009-04-28
+Quality: 1/5    Difficulty: 5/5    Grade: N/A    Would Take Again: N/A
+Review: This class is like starving to death. At first, you try and try to make it through the next day, but eventually, your stomach distends, and you hallucinate the laughing specter of Karl, mocking you, as you cannot even muster up the strength to swat the flies off of your face. You, and your GPA die, just as you came into this world, alone.
+
+Course: SECURESOFTWARE    Date: 2005-12-02
+Quality: 3/5    Difficulty: 3/5    Grade: N/A    Would Take Again: N/A
+Review: The course was Secure Software Engineering. Or, at least, that's what it was called. It turned out to be a course in AspectJ and Demeter - really just him providing a forum for his students' research projects and trying to push AOP on everybody. I am told this is what ALL his classes are.
+
+Course: CSU670    Date: 2004-11-29
+Quality: 4/5    Difficulty: 5/5    Grade: N/A    Would Take Again: N/A
+Review: Brilliant man, wonderful professor. My only complaint is with the course itself, not with Lieberherr. The project was one that he had never done before, and didn't even know how to do himself. Talking to others who took his class, I guess this happens a lot. Surprised to find no Lieb bashers here!
+
+Course: CSU670    Date: 2004-07-07
+Quality: 3/5    Difficulty: 4/5    Grade: N/A    Would Take Again: N/A
+Review: Work hard and you'll learn LOTS. Lieb. is a zen sort of guy, but if you get him talking you immediately pick up on his vast ability and experience. He is willing to help any time, but can be confusing at times. Great class. Do y'self a favor and take it.

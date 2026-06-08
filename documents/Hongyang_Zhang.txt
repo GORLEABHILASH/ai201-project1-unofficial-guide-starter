@@ -1,0 +1,154 @@
+Hongyang Zhang
+Department: Computer Science
+Overall Quality: 3.6 / 5 (based on 29 ratings)
+Average Difficulty: 3.2 / 5
+Would Take Again: 60%
+
+============================================================
+REVIEWS
+============================================================
+
+Course: CS7140    Date: 2026-06-05
+Quality: 1/5    Difficulty: 1/5    Grade: N/A    Would Take Again: N/A
+Review: He is not a good advisor for phd, very harsh. Better to avoid!
+
+Course: CS7140    Date: 2026-05-24
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: Participation matters, Caring, Accessible outside class
+Review: A nice course introducing learning theory and optimization, with connections to modern ML.
+
+Course: CS7140    Date: 2026-05-24
+Quality: 5/5    Difficulty: 3/5    Grade: N/A    Would Take Again: Yes
+Tags: Get ready to read, Gives good feedback, Accessible outside class
+Review: Nice course introducing learning theory and optimization, with connections to modern ML applications.
+
+Course: DS4400    Date: 2026-04-01
+Quality: 2/5    Difficulty: 4/5    Grade: B-    Would Take Again: N/A
+Review: His voice makes you sleepy in class. He's always immersed in his own world, you cannot not learn anything from him in class.
+
+Course: DS5220    Date: 2026-03-26
+Quality: 5/5    Difficulty: 2/5    Grade: A    Would Take Again: Yes
+Tags: Caring, Lecture heavy, Accessible outside class
+Review: Very cool prof! If you want a deep understanding of the mathematical side of Machine Learning, take his class. He focuses heavily on the theoretical aspects, which is rare and valuable. Despite the rigor, he is extremely understanding and patient and is always willing to go the extra mile to explain things during office hours.
+
+Course: DS5220    Date: 2026-02-26
+Quality: 1/5    Difficulty: 3/5    Grade: A    Would Take Again: N/A
+Tags: Hilarious
+Review: Sometimes he UNSURE of what hes trying to say. Poor communication skills.
+
+Course: DS4400    Date: 2025-12-17
+Quality: 4/5    Difficulty: 1/5    Grade: A    Would Take Again: Yes
+Tags: Clear grading criteria, Caring
+Review: had him for cs4100 but that wasnt an option. Freest A of my life. Midterm was takehome, attendance wasn't mandatory, and homework assignments had so much starter code I was basically just uncommenting lines and submitting. Learned absolutely nothing though.
+
+Course: CS7140    Date: 2025-02-18
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Group projects, Clear grading criteria, Caring
+Review: He is a highly approachable professor with a wealth of knowledge. As long as you complete the homework and put effort into a strong final project, achieving a high grade is very manageable!
+
+Course: DS5220    Date: 2025-02-17
+Quality: 1/5    Difficulty: 2/5    Grade: A    Would Take Again: N/A
+Review: This course covers conventional machine learning materials. I have taken cs6140 under another professor, which actually covered similar topics compared to this course. But that one is more profound and interesting, I guess it's due to the teaching style. This course could be more solid and easy-to-understand for whom just got into this area
+
+Course: DS4400    Date: 2025-02-17
+Quality: 1/5    Difficulty: 3/5    Grade: N/A    Would Take Again: N/A
+Review: Course itself is great, I have learnt quite a lot. However, I wouldn't recommend the professor to take his session on. He is great, but not good at teaching.
+
+Course: DS4400    Date: 2025-01-06
+Quality: 5/5    Difficulty: 3/5    Grade: A-    Would Take Again: Yes
+Tags: Gives good feedback, Caring, Respected
+Review: I learned a lot from Professor Zhang's lectures. Each presentation/class had a well-structured flow and the content was relevant and useful. He is also very well-versed in the topic which meant that additional comments were typically insightful. He also cares about students and wants to help them in any way he can.
+
+Course: DS4400    Date: 2024-09-04
+Quality: 1/5    Difficulty: 3/5    Grade: A    Would Take Again: N/A
+Review: It's ok class. Prof knows a lot in his area, but he's not a good teacher.
+
+Course: DS4400    Date: 2024-03-20
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Caring, Accessible outside class
+Review: Professor Zhang is clearly very knowledgeable in the field of machine learning, and did an amazing job explaining difficult theoretical concepts during lectures. His class includes a reasonable mix of machine learning theory (underlying mechanisms of machine learning algorithms/techniques) and opportunities to apply them to practical datasets.
+
+Course: DS5220    Date: 2024-01-13
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Inspirational, Respected
+Review: Professor Zhang is approachable and encourages students to ask questions. Office hours are well-utilized, we often go to his office after class to ask questions, and he was always patient and happy to answer.
+
+Course: DS4400    Date: 2023-11-27
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Group projects, Inspirational, Accessible outside class
+Review: Professor Zhang displayed exceptional knowledge and passion for machine learning, making complex topics understandable and engaging. Also, feedback was always constructive and insightful, significantly aiding in our learning process. Besides that, I love how the final project was laid out and presented which gave students many free discussions.
+
+Course: CS7140    Date: 2023-11-25
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Accessible outside class
+Review: A must-take class if you want to claim that you understand why deep learning works. He comprehends and complements the difficult-to-self-learn textbooks very well so that the large topics fit within a semester. Through the project, he trains you how to read, critique, and build on the latest literature. He is very considerate and accessible.
+
+Course: DS4400    Date: 2023-11-09
+Quality: 1/5    Difficulty: 4/5    Grade: N/A    Would Take Again: N/A
+Review: Take other courses if you have chance. The grade is fair, but if you really wanted to learn something from the course, probably NO. You won't feel any passion from the instructor at all.
+
+Course: DS5220    Date: 2023-09-18
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Group projects, Inspirational
+Review: Professor Zhang taught this course very well and I have learned a lot from this course.
+
+If you are going to do research, please this course. This course will prepare you very well for research.
+
+Professor Zhang is a nice person and answers students' questions patiently.
+
+Course: DS4400    Date: 2023-09-16
+Quality: 1/5    Difficulty: 3/5    Grade: N/A    Would Take Again: N/A
+Review: The course is tough with often unclear lectures. Grading is fair, but a foundation knowledge is recommended. Prof focuses on theory, lacking practical examples. Would recommend other courses at Khoury unless you don't have any other choices.
+
+Course: DS4400    Date: 2023-08-18
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Caring, Test heavy, Graded by few things
+Review: Prof Zhang's class was a good mix of applied and theoretical ML techniques and was a fair grader. He involves the students in his teaching a lot which was engaging and conducive to learning, so would recommend this class! It helped me with foundations for my ML research and I think others would benefit too.
+
+Course: CS7140    Date: 2023-05-20
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Gives good feedback, Inspirational
+Review: CS7140 is a challenging course, but you will learn a lot if you dive into it. Please take CS6140 machine learning before you pick this one, or you will feel lost for the entire semester. Professor Zhang is knowledgeable about the mathematical theory of ML. The classroom atmosphere is relaxed. Feel free to ask any questions when you confuse!
+
+Course: DS4400    Date: 2023-05-11
+Quality: 3/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Review: I found this class to be incredibly difficult and lectures/materials hard to follow. Homework required a lot of research on my own and slides weren't helpful. However, I thought the grading was fair and the TAs/professor tried their very best to ensure everyone performs well. As long as you show that you put in effort, you should be fine.
+
+Course: CS7140    Date: 2022-05-09
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Clear grading criteria, Caring
+Review: He is the best lecturer if you want to learn machine learning. He teaches tough topics effectively using his own words that makes us much easier to learn the topics by reading texts. He has clear instructions and offers support as needed on assignments so that each student can learn through these assignments.
+
+Course: CS7140    Date: 2022-03-03
+Quality: 1/5    Difficulty: 3/5    Grade: N/A    Would Take Again: N/A
+Tags: Tough grader, Get ready to read
+Review: If you have no experience with ML,take cs6140 or NLP,before taking this course. Prof. Zhang didn&#39;t provide any solid examples for each theory. I personally just learnt the topic from textbooks/online sources,and used the lectures for review.Northeastern should hire some professors who know how to teach and convey their knowledge to the students
+
+Course: CS7140    Date: 2022-01-06
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Gives good feedback, Respected, Skip class? You won't pass.
+Review: Prof Zhang's 7140 class was focused mostly on mathematical deep learning theory. The materials were in-depth, and I learned a lot from the lectures and the assignments. The class is challenging and can get quite technical, so I can see why some students struggled with it. Be sure to allocate enough time for his class as it can be quite demanding.
+
+Course: CS7140    Date: 2021-11-11
+Quality: 5/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Gives good feedback, Accessible outside class, Amazing lectures
+Review: Professor Zhang is extremely knowledgeable in the mathematical and theoretical aspects of ML and he managed to teach the core ideas very well in this course. He was very accessible outside class (also responds to emails in minutes) and provided excellent guidance throughout the course and in picking up research topics after the course as well.
+
+Course: CS7140    Date: 2021-10-22
+Quality: 5/5    Difficulty: 4/5    Grade: Audit/No Grade    Would Take Again: Yes
+Tags: Gives good feedback, Respected, Amazing lectures
+Review: This is an amazing class. Prof. Zhang is very approachable. His brilliance and extensive knowledge of the field of machine learning are obvious. You can study a lot from this class, especially for the theoretical and mathematical parts. He is always available to help and efficiently explains every lesson!
+
+Course: CS7180    Date: 2021-06-15
+Quality: 2/5    Difficulty: 4/5    Grade: A    Would Take Again: No
+Review: If you want to learn deep learning, look at some free edX/MIT classes; if you're taking this for PhD, I'd recommend taking other sessions other than his. The lectures are super dry, often skipping showing how to solve actual problems. He didn't did do well explaining the concepts. We had to check lectures on the internet to fully understand them.
+
+Course: CS7180    Date: 2021-06-02
+Quality: 5/5    Difficulty: 3/5    Grade: Audit/No Grade    Would Take Again: Yes
+Tags: Accessible outside class, Inspirational, Amazing lectures
+Review: Excellent course. Prof Zhang is very polite, accessible and extremely knowledgeable in his area. Anyone pursing machine learning/deep learning will gain a lot from this course.
+
+Course: CS7180    Date: 2021-05-05
+Quality: 1/5    Difficulty: 3/5    Grade: A    Would Take Again: No
+Tags: Skip class? You won't pass., Graded by few things
+Review: Took his course last year. He's probably good at his field but the course is poorly designed. Just read off the slides which just copy&amp;paste from other universities' slides. He didn't organize them well and plan beforehand. Often changed the assignment's requirements at the last mins. Very little passion for teaching. Doesn't care about students.

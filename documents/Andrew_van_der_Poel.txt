@@ -1,0 +1,185 @@
+Andrew van der Poel
+Department: Computer Science
+Overall Quality: 3.7 / 5 (based on 35 ratings)
+Average Difficulty: 3.9 / 5
+Would Take Again: 67%
+
+============================================================
+REVIEWS
+============================================================
+
+Course: cs1800    Date: 2026-05-06
+Quality: 4/5    Difficulty: 3/5    Grade: A-    Would Take Again: Yes
+Review: Content is easy to follow as long as you show up to the lectures. The project however is completed mostly in the recitation which takes away time from going over class content and basically makes the it mandatory to attend on those days. Overall, though he is a very chill guy and is always happy to help if you are stuck.
+
+Course: cs1800    Date: 2026-04-28
+Quality: 3/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Review: I worked really hard for that A. His teaching is very confusing to somebody who's never come across discrete math or probability.
+
+Course: cs1800    Date: 2026-04-26
+Quality: 5/5    Difficulty: 4/5    Grade: B+    Would Take Again: Yes
+Tags: Group projects, Lecture heavy, Graded by few things
+Review: Fair professor. Curves so that "80% of students get an A or a B". Project is easy and fun, just don't do the same topic as others do. 6 quizzes are 72% of your grade. Midterm and final are second-chance attempts to replace your quiz grade if you do better. TA's grade quiz/hw, and are brain dead. ALWAYS double check TA grading and dispute
+
+Course: cs1800    Date: 2026-04-26
+Quality: 3/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader, Group projects, Test heavy
+Review: Professor's teaching style was decent but slides were very disorganized. Weighting this year got shifted more heavily to quizzes (72% of total grade). Quizzes were generally 2-4 questions and out of 10 points.  There were only 6 quizzes. Any mistake would at minimum drop you 0.5 points, meaning -5%. Had second chance makeups but still frustrating.
+
+Course: cs1800    Date: 2026-04-11
+Quality: 1/5    Difficulty: 5/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader
+Review: Never take is professor if you want to learn from his class.
+
+Course: cs1800    Date: 2026-02-13
+Quality: 1/5    Difficulty: 4/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader, Group projects
+Review: Discrete is known to be an EASY intro to cs course, but drew makes it difficult. Recitations feel mandatory. Only cs1800 instructor to give us a project. Boring lecturer, does not explain well. I'm a 3rd year CE/CS major and somehow this class is harder than my higher level cs classes.
+
+Course: CS3800    Date: 2025-12-10
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Tough grader, Lecture heavy, Accessible outside class
+Review: Good class structure and really good lectures, but it definitely gets harder towards the end of the semester, and the material gets more theoretical/harder to follow, so it's easy to fall off/stop paying attention towards the end, which can have a substantial grade impact.
+
+Course: CS3800    Date: 2025-12-09
+Quality: 5/5    Difficulty: 3/5    Grade: A-    Would Take Again: Yes
+Tags: Clear grading criteria, Lecture heavy, Graded by few things
+Review: Drew was awesome. Theory Of Comp is hard in general, but I really like the quiz and homework set up. There was very little that was unexpected and he prepared you well. He is so awesome personally, as long as you pay attention. I love him hes so goated
+
+Course: CS3800    Date: 2025-12-08
+Quality: 5/5    Difficulty: 4/5    Grade: Not sure yet    Would Take Again: Yes
+Tags: Lecture heavy, Test heavy, Accessible outside class
+Review: He is a good professor, but unlike most classes, it's actually somewhat hard to get a good grade in CS3800. He is very reasonable and helps students even outside typical work hours through the online forum. My only complaint is his handwriting, and I really think he should just type out his slides.
+
+Course: cs1800    Date: 2025-10-31
+Quality: 2/5    Difficulty: 4/5    Grade: B    Would Take Again: N/A
+Tags: Tough grader, Caring, Respected
+Review: if u take his class ur choosing the more challenging route. hes really nice but im a ds major and didnt need to take algo so his "setting you up for algo" was not helpful for me and just made the class more difficult. Trust i work hard and this is the only B on my transcript for a reason.
+
+Course: CS3000    Date: 2025-10-03
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Review: Yeah this guy is the goat. His classes are test heavy, but he sets you up to succeed. The tests do not deviate from what he wants you to learn, and it's pretty obvious what that is. Taking theory of comp w him right now, and not much has changed. If you don't want busy work and actually want to learn this is your guy.
+
+Course: cs1800    Date: 2024-12-17
+Quality: 3/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Tough grader, Clear grading criteria, Lots of homework
+Review: Definitely a way harder class with him than with other professors. However, this sets you up better for Algo in the long run. You should take the time to make sure you understand everything as you learn it so that you aren't overwhelmed when studying for tests.
+
+Course: cs1800    Date: 2024-11-21
+Quality: 2/5    Difficulty: 4/5    Grade: C    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Lecture heavy
+Review: Insanely hard intro level class. Most ended with Bs or lower and the homeworks were a lot. Does not provide support to students and will not explain well in class. I attended every class and he does a terrible job at explaining. I'm a smart student but this class took it out of me do not take it with him unless you are a teacher's pet
+
+Course: cs1800    Date: 2024-04-25
+Quality: 4/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Clear grading criteria, Test heavy, Accessible outside class
+Review: The class was challenging, but definitely not anything unmanageable. As long as you pay attention during lectures, particularly the practice problems we do, you should be able to complete the HWs and quizzes just fine. Drew is always happy to help clarify/re-explain concepts, and I genuinely feel that I learned a lot from the class.
+
+Course: CS3000    Date: 2024-04-24
+Quality: 1/5    Difficulty: 5/5    Grade: A    Would Take Again: N/A
+Tags: Tough grader, Lecture heavy, Test heavy
+Review: Quickly switches through topics without fully explaining the concepts. Will include things on exams that he barely went over in class. Take someone else if you can.
+
+Course: cs1800    Date: 2023-04-30
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Lots of homework, Respected
+Review: Professor Van der Poel is the best professor at Northeastern by far. Explains concepts so clearly and makes learning fun. He does make the class a little tough but it is 100% manageable if you put the effort in and would really recommend him to anyone deciding
+
+Course: cs1800    Date: 2023-04-27
+Quality: 1/5    Difficulty: 5/5    Grade: N/A    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Graded by few things
+Review: Drew is a nice professor, but the course he taught was VERY difficult for an introductory discrete class. His section was at least double the work of discrete sections in the fall semester. I don't recommend anyone take him for discrete or discrete in the spring at all. You will be doing more work and getting a worse grade than the fall sections.
+
+Course: cs1800    Date: 2023-04-26
+Quality: 2/5    Difficulty: 5/5    Grade: B    Would Take Again: N/A
+Tags: Tough grader, Respected
+Review: Drew is a nice prof, but the class was very challenging. He's willing to help in class and office hours. Most of the grade is based on 2 midterms that are each worth 26% of the grade. They were also each only 26 points which made it harder to get a high grade. For an intro class to logic, he made it harder than it was. Other sections were easier.
+
+Course: cs1800    Date: 2023-04-21
+Quality: 2/5    Difficulty: 5/5    Grade: N/A    Would Take Again: N/A
+Tags: Tough grader, Lots of homework, Test heavy
+Review: Professor van der Poel attempts to help and provide resources for his students, but this class is impossible to do well in. Homework is extremely hard, class lectures do not prepare you for HW or tests. For an intro level logic course this class is extremely difficult. Would not take again.
+
+Course: cs1800    Date: 2023-04-20
+Quality: 4/5    Difficulty: 4/5    Grade: B    Would Take Again: Yes
+Tags: Tough grader, Caring, Test heavy
+Review: Drew is a really nice guy, but this class is super hard to do well in. There are 2 midterms each are worth 26% (52% total) very little other opportunities to bring grade up if u bomb one of them. He said like 20% of people get an A and 80% get a B or lower. Great prof, always willing to help, but for a first-time logical thinking class it's tough.
+
+Course: cs1800    Date: 2023-04-14
+Quality: 3/5    Difficulty: 4/5    Grade: B+    Would Take Again: N/A
+Tags: Tough grader, Lecture heavy, Test heavy
+Review: All of his homework needs to be typesetted and my homework grades are inconsistent with my friend's even though we did our homework together. There isn't much feedback on the homework either, making it hard to understand and learn. Tests are hard and he doesn't give out curves easily, and the two exams are worth more than 50% of the entire grade.
+
+Course: cs1800    Date: 2023-02-12
+Quality: 1/5    Difficulty: 5/5    Grade: Not sure yet    Would Take Again: N/A
+Tags: Tough grader, Hilarious, Test heavy
+Review: The teacher asked us to type the answers, some mathematical symbols are hard to type out, it waste a lot of time. The assignments were graded strictly, the answers were formatted strictly, a lot of the homework comments weren't clear, and it wasn't even know why we lost the grade. He was extremely reluctant to re-grade.
+
+Course: CS3000    Date: 2022-10-27
+Quality: 5/5    Difficulty: 4/5    Grade: A+    Would Take Again: Yes
+Tags: Gives good feedback, Lots of homework, Caring
+Review: Extremely good professor who is nice and cool
+
+Course: CS3800    Date: 2022-08-23
+Quality: 3/5    Difficulty: 4/5    Grade: A-    Would Take Again: N/A
+Tags: Gives good feedback, Lecture heavy
+Review: Drew is a nice dude. Took algo with him and loved it. For Theory of Comp, the course structure is awkward. We spent most of the time on FSA, the relatively easy stuff. On undecidability and complexity, he went through large amount of content in a short amount of time. The assignments are only out of 30 points so there isn't any room for error.
+
+Course: CS3800    Date: 2022-08-15
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: EXTRA CREDIT, Amazing lectures , Inspirational
+Review: Drew is GOLDEN. One of the best professors I've met at Northeastern. Theoretical courses are tough for most people, but I enjoyed his lectures for this semester's computation theory, which has the clearest structures and slides. He's super inclusive about questions and comments, and actively responds to students' confusion/discussions. 20/10!
+
+Course: CS3000    Date: 2022-06-30
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Amazing lectures , Hilarious, Caring
+Review: I forgot to fill out TRACE, so I'll leave my review here. Drew is an awesome professor. Lectures are good, and the content is taught well. You will learn a lot in his class.
+
+Course: CS3000    Date: 2021-11-04
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Accessible outside class, Clear grading criteria, Amazing lectures
+Review: Van Der Poel is a great lecturer and helpful in office hours. Good dude.
+
+Course: CS3000    Date: 2021-08-26
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Accessible outside class, Skip class? You won't pass., Amazing lectures
+Review: Professor Van Der Poel is great. His lectures are direct and interesting. He makes difficult concepts easy to understand. Definitely recommend taking his course.
+
+Course: CS3000    Date: 2021-08-08
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Review: Great guy, pretty good at explaining tough concepts and answering questions from the class. Really tried to keep everyone engaged especially over zoom.
+
+Course: CS5001    Date: 2021-05-23
+Quality: 5/5    Difficulty: 3/5    Grade: A    Would Take Again: Yes
+Tags: Gives good feedback, Respected, Clear grading criteria
+Review: He is really good professor. I have learn a lot of useful CS useful knowledge from his class. Definitly recommend to take his class.
+
+Course: CS5800    Date: 2020-12-10
+Quality: 5/5    Difficulty: 3/5    Grade: N/A    Would Take Again: Yes
+Tags: Gives good feedback, Respected, Accessible outside class
+Review: Clear in explaining ideas,&nbsp;patient with all students and being fun with answering questions. Would definitely take his class again if I have a chance.
+
+Course: CS5800    Date: 2020-09-18
+Quality: 5/5    Difficulty: 4/5    Grade: A    Would Take Again: Yes
+Tags: Accessible outside class, Amazing lectures, Caring
+Review: Drew is absolutely a gem and amazing in Algorithms! He does not assume that students know the pre-requisites and covers every topic right from the foundation and gradually advances the level. Graphs are the best! Assignments are well designed to cover lecture concepts, med to high difficulty. Definitely recommend him! You won't regret :)
+
+Course: CS3000    Date: 2020-08-20
+Quality: 5/5    Difficulty: 4/5    Grade: A+    Would Take Again: Yes
+Tags: Accessible outside class, Clear grading criteria, EXTRA CREDIT
+Review: Least intimidating professor I've taken so far. Very humble, down to earth. Very accomodating to confused students, and was extremely accessible throughout the course. Homework grading was slow but he released solutions asap, so that didn't matter. Lenient, lots of extra credit, yet still learned a lot from in. Would take again.
+
+Course: CS3000    Date: 2020-08-09
+Quality: 4/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Caring
+Review: Humble, relatable fellow. He gives precrastinators a chance to stay ahead (ha) in the class schedule by releasing lectures the day before. Very open to incredibly stupid questions (a lot of which asked by me). Slow grading, makes it difficult to fix up approaches to homework. Also hardly available on Friday/weekends (at least for summer).
+
+Course: CS5800    Date: 2020-08-08
+Quality: 4/5    Difficulty: 2/5    Grade: A+    Would Take Again: Yes
+Tags: Accessible outside class, Clear grading criteria, Lecture heavy
+Review: Did a great job teaching the course in the pandemic. Always reachable on piazza and outside. Makes regrading interesting by introducing challenges.
+
+Course: CS3000    Date: 2020-04-22
+Quality: 4/5    Difficulty: 4/5    Grade: N/A    Would Take Again: Yes
+Tags: Lots of homework, Accessible outside class, Test heavy
+Review: He takes things seriously, but is also ridiculously in touch with college aged students (probably has something to do with his age, but he's also generally a cool guy). Took a tough situation with a hard class (COVID semester) and made the material accessible nonetheless. I would recommend.
